@@ -1,0 +1,18 @@
+C:\Users\trade\Documents\Visual Studio 2012\Projects\Клиент\Клиент\bin\Debug\Клиент.exe
+C:\Users\trade\Documents\Visual Studio 2012\Projects\Клиент\Клиент\bin\Debug\Клиент.pdb
+C:\Users\trade\Documents\Visual Studio 2012\Projects\Клиент\Клиент\bin\Debug\Клиент.xml
+C:\Users\trade\Documents\Visual Studio 2012\Projects\Клиент\Клиент\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\trade\Documents\Visual Studio 2012\Projects\Клиент\Клиент\obj\Debug\Клиент.vbproj.GenerateResource.Cache
+C:\Users\trade\Documents\Visual Studio 2012\Projects\Клиент\Клиент\obj\Debug\Клиент.exe
+C:\Users\trade\Documents\Visual Studio 2012\Projects\Клиент\Клиент\obj\Debug\Клиент.xml
+C:\Users\trade\Documents\Visual Studio 2012\Projects\Клиент\Клиент\obj\Debug\Клиент.pdb
+C:\Users\trade\Documents\Visual Studio 2012\Projects\Клиент\Клиент\obj\Debug\WindowsApplication1.FInet.resources
+L:\Клиент\Клиент\obj\Debug\Клиент.exe
+L:\Клиент\Клиент\obj\Debug\Клиент.xml
+L:\Клиент\Клиент\obj\Debug\Клиент.pdb
+L:\Клиент\Клиент\bin\Debug\Клиент.exe
+L:\Клиент\Клиент\bin\Debug\Клиент.pdb
+L:\Клиент\Клиент\bin\Debug\Клиент.xml
+L:\Клиент\Клиент\obj\Debug\WindowsApplication1.FInet.resources
+L:\Клиент\Клиент\obj\Debug\WindowsApplication1.Resources.resources
+L:\Клиент\Клиент\obj\Debug\Клиент.vbproj.GenerateResource.Cache

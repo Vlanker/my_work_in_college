@@ -1,0 +1,18 @@
+C:\Users\trade\Documents\Visual Studio 2012\Projects\Сервер\Сервер\bin\Debug\Сервер.exe
+C:\Users\trade\Documents\Visual Studio 2012\Projects\Сервер\Сервер\bin\Debug\Сервер.pdb
+C:\Users\trade\Documents\Visual Studio 2012\Projects\Сервер\Сервер\bin\Debug\Сервер.xml
+C:\Users\trade\Documents\Visual Studio 2012\Projects\Сервер\Сервер\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\trade\Documents\Visual Studio 2012\Projects\Сервер\Сервер\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\trade\Documents\Visual Studio 2012\Projects\Сервер\Сервер\obj\Debug\Сервер.vbproj.GenerateResource.Cache
+C:\Users\trade\Documents\Visual Studio 2012\Projects\Сервер\Сервер\obj\Debug\Сервер.exe
+C:\Users\trade\Documents\Visual Studio 2012\Projects\Сервер\Сервер\obj\Debug\Сервер.xml
+C:\Users\trade\Documents\Visual Studio 2012\Projects\Сервер\Сервер\obj\Debug\Сервер.pdb
+L:\Сервер\Сервер\obj\Debug\Сервер.exe
+L:\Сервер\Сервер\obj\Debug\Сервер.xml
+L:\Сервер\Сервер\obj\Debug\Сервер.pdb
+L:\Сервер\Сервер\bin\Debug\Сервер.exe
+L:\Сервер\Сервер\bin\Debug\Сервер.pdb
+L:\Сервер\Сервер\bin\Debug\Сервер.xml
+L:\Сервер\Сервер\obj\Debug\WindowsApplication1.Form1.resources
+L:\Сервер\Сервер\obj\Debug\WindowsApplication1.Resources.resources
+L:\Сервер\Сервер\obj\Debug\Сервер.vbproj.GenerateResource.Cache

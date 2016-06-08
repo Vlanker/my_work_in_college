@@ -1,0 +1,1 @@
+Provider=SQLOLEDB.1;Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=db1SQL;Data Source=MAC1\SQLEXPRESS
